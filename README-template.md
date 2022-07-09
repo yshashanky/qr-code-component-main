@@ -3,11 +3,13 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Overview
+
 A perfect first challenge if you're new to HTML and CSS.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/deployed1.png)
+![](./images/deployed2.png)
 
 ### Links
 
@@ -23,6 +25,5 @@ A perfect first challenge if you're new to HTML and CSS.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yshashanky](https://www.frontendmentor.io/profile/yourusername)
+- Github - [@yshashanky](https://www.twitter.com/yourusername)
