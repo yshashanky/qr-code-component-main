@@ -25,5 +25,5 @@ A perfect first challenge if you're new to HTML and CSS.
 
 ## Author
 
-- Frontend Mentor - [@yshashanky](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@yshashanky](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yshashanky](https://www.frontendmentor.io/profile/yshashanky)
+- Github - [@yshashanky](https://github.com/yshashanky)
